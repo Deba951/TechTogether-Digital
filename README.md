@@ -1,6 +1,8 @@
 # Project for TechTogether Digital
 
-<img width="1429" alt="Screenshot 2023-04-30 at 3 32 41 PM" src="https://user-images.githubusercontent.com/83878346/235347342-0bad40e0-5f7b-43dd-90b4-1171622ecb0f.png">
+
+![WhatsApp Image 2023-04-30 at 15 42 36](https://user-images.githubusercontent.com/83878346/235347676-df2e7195-25a5-44c8-9395-c5e70792e863.jpeg)
+
 
 <!-- About The Project -->
 
