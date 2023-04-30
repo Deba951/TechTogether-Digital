@@ -84,6 +84,6 @@ Don't forget to star this project!!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License
+Distributed under the Apache-2.0 lisence
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
