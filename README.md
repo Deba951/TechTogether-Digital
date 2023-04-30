@@ -1,5 +1,7 @@
 # Project for TechTogether Digital
 
+<img width="1429" alt="Screenshot 2023-04-30 at 3 32 41 PM" src="https://user-images.githubusercontent.com/83878346/235347342-0bad40e0-5f7b-43dd-90b4-1171622ecb0f.png">
+
 <!-- About The Project -->
 
 ### Built With
